@@ -4,10 +4,7 @@ ________________________________________________________________________________
 
 <img width="524" alt="Screen Shot 2022-10-31 at 6 41 18 PM" src="https://user-images.githubusercontent.com/107158272/199129555-3252b527-f65b-4882-9a0e-dd061531f85c.png">
 
-
 https://user-images.githubusercontent.com/107158272/199130329-5d6f6df6-7222-4fa4-bda8-04c7880f48f0.MOV
-
-
 
 https://user-images.githubusercontent.com/107158272/199130337-8b2186fe-171e-4c8f-b070-bfa806f29026.MOV
 
