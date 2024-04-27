@@ -1,5 +1,5 @@
-# Bazookaz
-National Association of Rocketry (NAR) High Power Rocketry Certification Level 1
+# Level 1 High Power Rocket - Bazookaz
+National Association of Rocketry High Power Rocketry Certification Level 1
 ___________________________________________________________________________________________________________________________________________________________
 
 <img width="524" alt="Screen Shot 2022-10-31 at 6 41 18 PM" src="https://user-images.githubusercontent.com/107158272/199129555-3252b527-f65b-4882-9a0e-dd061531f85c.png">
